@@ -1,0 +1,23 @@
+{
+  "name": "swiper-carousel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "swiper.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deadBlueShark/deadBlueShark.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deadBlueShark/deadBlueShark.github.io/issues"
+  },
+  "homepage": "https://github.com/deadBlueShark/deadBlueShark.github.io#readme",
+  "dependencies": {
+    "swiper": "^4.5.0"
+  }
+}
